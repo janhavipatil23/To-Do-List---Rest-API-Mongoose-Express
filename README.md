@@ -16,6 +16,14 @@ Technical Requirements:
     A todo object has id, title, description, createdDate, & lastModifiedDate properties.
     
 Commands to run:
-1. npm init
-2. npm i --save express mongoose cors debug
-3. npm run start
+
+    npm init
+    npm i --save express mongoose cors debug
+    npm run start
+
+Steps to run the project:
+
+    Clone the repository
+    Run commands 2 and 3 on terminal (after going into the project folder)
+    Open project on vscode and start mongodb compass, postman
+    Perform GET, POST, PUT, DELETE on Postman, observe changes reflected on compass respectively
