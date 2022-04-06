@@ -1,6 +1,3 @@
-# assignment-8-janhavipatil23
-assignment-8-janhavipatil23 created by GitHub Classroom
-
 
 Create a simple Nodejs/Express REST API for a simple to-do app.
 
