@@ -1,4 +1,4 @@
-# ToDo-List-Rest-API-Mongoose-Express
+# ToDo-List (Rest-API, Mongoose, Express)
 
 Create a simple Nodejs/Express REST API for a simple to-do app.
 
